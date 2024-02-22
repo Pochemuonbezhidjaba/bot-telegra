@@ -1,0 +1,28 @@
+{
+  "name": "author",
+  "version": "1.0.1",
+  "description": "Bot-telegram",
+  "main": "1",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pochemuonbezhidjaba/bot-telegram.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Sverkunov Semen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Pochemuonbezhidjaba/bot-telegram/issues"
+  },
+  "homepage": "https://github.com/Pochemuonbezhidjaba/bot-telegram#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
